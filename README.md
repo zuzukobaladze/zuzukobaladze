@@ -50,7 +50,7 @@
 
 ---
 
-🧠 **Current Role: Middle Backend Developer @ Omno**
+🧠 **Current Role: Backend Developer @ Omno**
 > Node.js, TypeScript, Fastify, Kotlin, Prisma, PostgreSQL, Docker, AWS, Kubernetes
 
 🧪 Previously:  
