@@ -3,7 +3,7 @@
 🎯 **Full Stack Developer | Backend Specialist | Blockchain Enthusiast**
 
 📍 Based in Georgia — Open to relocation  
-🎓 Final year CS student @ Kutaisi International University (Full Scholarship, GPA 3.5)
+🎓 Computer Science Graduate @ Kutaisi International University (Full Scholarship, GPA 3.5)
 
 ---
 
