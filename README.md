@@ -62,7 +62,6 @@
 
 📈 **Stats**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuzukobaladze&layout=compact&theme=radical)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zuzukobaladze&show_icons=true&theme=radical)
 
 ---
