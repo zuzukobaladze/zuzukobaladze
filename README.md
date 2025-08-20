@@ -114,10 +114,6 @@ From Provable Correctness to Probabilistic Generation: A Comparative Review of P
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuzukobaladze&layout=compact&theme=radical&hide_border=true" alt="top langs"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuzukobaladze&theme=react-dark&area=true&hide_border=true" alt="activity graph"/>
-</p>
-
 ---
 
 <p align="center">
